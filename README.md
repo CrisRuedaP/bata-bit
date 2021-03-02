@@ -1,3 +1,3 @@
 # bata-bit
 
-### 🤑 Responsive design - Mobile First.
+### Responsive design - Mobile First.
